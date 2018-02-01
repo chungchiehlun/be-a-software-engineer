@@ -1,0 +1,7 @@
+baseURL = "/"
+languageCode = "en-us"
+title = "Be a Software Engineer"
+theme = "journal"
+
+[params]
+	tagline = "馬步紮得穩，功夫一定深"
