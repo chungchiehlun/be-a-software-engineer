@@ -3,7 +3,7 @@
   <article class="posts">
     <section>
       <ol>
-        {{ range .Pages }}
+        {{ range (.Data.Pages.ByParam "order") }}
         <li>
           <a href="{{ .RelPermalink }}">{{ .Title }}</a>
         </li>
