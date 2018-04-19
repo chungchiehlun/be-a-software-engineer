@@ -1,6 +1,6 @@
 ---
-title: "第八週討論會：2018/04/12"
-order: 8
+title: "Data Structure"
+order: 999
 ---
 
 ## [解釋 Big-O](http://bigocheatsheet.com/)
@@ -14,7 +14,7 @@ order: 8
 | Queue | Jay |
 | Singly-Linked List | York Henry|
 | Doubly-Linked List | York Henry|
-| Skip List | james |
+| Skip List | james (4/19) |
 | Hash Table | Jay PenguinRun|
 | Binary Search Tree | Arel x |
 | Cartesian Tree | james x |
